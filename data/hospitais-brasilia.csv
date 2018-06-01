@@ -1,11 +1,11 @@
-nome,qtd_profissionais,lat,long,telefone,atendimento
-Hospital de Base de Brasília,3425,-15.8007912,-47.8898495,(61) 3315-1280,Aberto 24 horas
-Hospital Regional de Taguatinga,1994,-15.8224538,-48069,(61) 3353-1000,Aberto 24 horas
-Hospital Regional de Santa Maria,1975,-16.0401964,-48.036401,(61) 3392-6015,Aberto 24 horas
-Hospital Materno Infantil de Brasília,1733,-15.8234808,-47.8974089,(61) 3445-7642,Aberto 24 horas
-Hospital Regional da Asa Norte,1712,-15.7850344,-47.885102,(61) 3325-4300,Aberto 24 horas
-Hospital Regional do Gama,1709,-16.0232657,-48.0699998,(61) 3385-9700,Aberto 24 horas
-Hospital Regional da Ceilândia,1537,-15.8153222,-48.0960745,(61) 3371-3444,Aberto 24 horas
-Hospital Regional de Sobradinho,1321,-15.6481408,-47.795084,(61) 3487-9200,Aberto 24 horas
-Hospital Regional do Paranoá,1162,-15.7814006,-47.782196,(61) 3369-9800,Aberto 24 horas
-Hospital Regional de Planaltina,891,-15.625,-47.6523,(61) 3388-9700,Aberto 24 horas
+nome,qtd_profissionais,lat,long,telefone,atendimento,endereco
+Hospital de Base de Brasília,3425,-15.8007912,-47.8898495,(61) 3315-1280,Aberto 24 horas,"St. Médico Hospitalar Sul - Asa Sul, Brasília - DF, 70330-150"
+Hospital Regional de Taguatinga,1994,-15.8224538,-48069,(61) 3353-1000,Aberto 24 horas,"St. B Norte Área Especial 24 - Taguatinga, Brasília - DF, 72120-970"
+Hospital Regional de Santa Maria,1975,-16.0401964,-48.036401,(61) 3392-6015,Aberto 24 horas,"AC 102, Blocos A, B, C e D - Santa Maria, Brasília - DF, 72502-100"
+Hospital Materno Infantil de Brasília,1733,-15.8234716,-47.8973544,(61) 3445-7642,Aberto 24 horas," Quadra 608 Módulo A - Asa Sul, Brasília - DF, 70203-900"
+Hospital Regional da Asa Norte,1712,-15.7850344,-47.885102,(61) 3325-4300,Aberto 24 horas,"Setor hospitalar Norte Quadra 1 - Asa Norte, Brasília - DF, 70710-100"
+Hospital Regional do Gama,1709,-16.0232657,-48.0699998,(61) 3385-9700,Aberto 24 horas,"St. Central EQ 47/49 01 - Gama, Brasília - DF, 72405-901"
+Hospital Regional da Ceilândia,1537,-15.8153222,-48.0960745,(61) 3371-3444,Aberto 24 horas,"QNM 27 Área Especial 1 QNM 28 - Ceilândia, Brasília - DF, 72215-270"
+Hospital Regional de Sobradinho,1321,-15.6481408,-47.795084,(61) 3487-9200,Aberto 24 horas,"Área Especial, uadra Conjunto D Q 12 Sobradinho, Brasília DF, 73010-120, Q 12 - Sobradinho, Brasília - DF"
+Hospital Regional do Paranoá,1162,-15.7814006,-47.782196,(61) 3369-9800,Aberto 24 horas,"Setor Hospitalar Quadra 2 Conjunto K - Paranoá, Brasília - DF, 71570-130"
+Hospital Regional de Planaltina,891,-15625,-47.6523,(61) 3388-9700,Aberto 24 horas,"St. Hospitalar QD 1 - Planaltina, Brasília - DF, 73310-000"
